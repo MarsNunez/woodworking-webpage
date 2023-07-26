@@ -10,7 +10,7 @@ const Hero = () => {
 
         <div className="absolute top-48">
           <p className="title text-[#efa570] tracking-wider">Carving Art</p>
-          <h1 className="title text-5xl max-w-xs mt-2 mb-3">
+          <h1 className="title text-5xl max-w-xs mt-2 mb-3 select-none">
             Bringing Wood to Life
           </h1>
           <div className="max-w-[170px] w-fit">

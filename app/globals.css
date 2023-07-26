@@ -9,3 +9,16 @@ body {
 .title {
   font-family: "Lora", serif;
 }
+
+.react-multi-carousel-dot--active button {
+  background: #efa570 !important;
+}
+
+.react-multi-carousel-dot button {
+  border-width: 1px !important;
+  border-color: #efa570 !important;
+}
+
+.react-multi-carousel-dot-list {
+  bottom: 15px !important;
+}
